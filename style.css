@@ -90,7 +90,7 @@ section a img{
     text-align: justify;
     position: relative;
     margin: 15px;
-    padding-top: 30px;
+    padding-top: 20px;
     text-align: center;
     background-color: rgb(209, 233, 255);
     border-radius: 10px;
@@ -100,7 +100,7 @@ section a img{
     border: 1px solid black;
 }
 .divdesign img{
-    width: 85%;
+    width: 90%;
 }
 .divdesign img:hover{
     cursor: default;
@@ -117,8 +117,9 @@ section a img{
     text-align: left;
     padding-bottom: 20px;
 }
- #gear{
-      width: 80%;
+.container .divdesign #gear{
+      width: 90%;
+      height: 64%;
 }
 a{
     text-decoration: none;
